@@ -29,7 +29,6 @@
 	<h1 align="center">회원 목록보기</h1>
 	<div class="text"><a href="index.do">처음으로</a></div>
 	<table border="1" >
-		<h1> ${dto }</h1>
 		<tr>
 			<th>이름</th>
 			<th>회사</th>
